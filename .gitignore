@@ -1,0 +1,36 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+*.exe
+*.pdb
+*.dll
+*.manifest
+*.dmp
+*.map
+*.ilk
+*.pch
+*.user
+*.aps
+*.tlog
+*.log
+*.cache
+*.obj
+*.opensdf
+*.sdf
+*.suo
+*.ipch
+bin/win32/logfiles/
+code/vs10.0/Win32/
+
+*.lastbuildstate
